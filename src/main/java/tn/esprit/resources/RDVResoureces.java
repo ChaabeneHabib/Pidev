@@ -42,7 +42,7 @@ public class RDVResoureces {
 					.header("Access-Control-Allow-Origin", "*").build();
 		}
 	}
-	
+	// just for testing 
  */
 	
 	@GET
